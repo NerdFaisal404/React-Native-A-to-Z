@@ -23,6 +23,7 @@ Then to build the APK's after bundling:
 $ cd android
 #Create debug build:
 $ ./gradlew assembleDebug
+
 #Create release build:
 $ ./gradlew assembleRelease #Generated `apk` will be located at `android/app/build/outputs/apk`
 
