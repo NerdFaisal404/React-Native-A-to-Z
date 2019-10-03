@@ -25,6 +25,7 @@ $ cd android
 $ ./gradlew assembleDebug
 
 #Create release build:
-$ ./gradlew assembleRelease #Generated `apk` will be located at `android/app/build/outputs/apk`
+$ ./gradlew assembleRelease 
+#Generated `apk` will be located at `android/app/build/outputs/apk`
 
 https://medium.com/@adityasingh_32512/solved-unable-to-load-script-from-assets-index-android-bundle-bdc5e3a3d5ff
